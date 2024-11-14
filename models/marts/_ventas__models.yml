@@ -1,0 +1,23 @@
+models:
+  - name: sales
+    description: ""
+    columns:
+      - name: region
+        data_type: varchar
+        description: ""
+
+      - name: pais
+        data_type: varchar
+        description: ""
+
+      - name: fecha
+        data_type: date
+        description: ""
+
+      - name: industria
+        data_type: varchar
+        description: ""
+
+      - name: ventas
+        data_type: number
+        description: ""
